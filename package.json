@@ -1,0 +1,16 @@
+{
+  "name": "pst-backend",
+  "version": "1.0.2003",
+  "description": "Backend for Project \"SwiftTube\"",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dagg-1/pst-backend.git"
+  },
+  "author": "Dagg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dagg-1/pst-backend/issues"
+  },
+  "homepage": "https://github.com/dagg-1/pst-backend#readme"
+}
